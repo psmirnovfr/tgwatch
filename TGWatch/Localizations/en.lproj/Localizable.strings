@@ -1,0 +1,20 @@
+/*
+  Localizable.strings
+  TGWatch (English)
+*/
+
+"Аккаунт" = "Account";
+"Выйти" = "Log Out";
+"Siri" = "Siri";
+"О приложении" = "About App";
+"Скажите: «Напиши [имя] в TGWatch»" = "Say: \"Write [name] in TGWatch\"";
+"TGWatch v1.0.0" = "TGWatch v1.0.0";
+"watchOS Telegram клиент" = "watchOS Telegram client";
+"Настройки" = "Settings";
+"Вы уверены, что хотите выйти?" = "Are you sure you want to log out?";
+"Отмена" = "Cancel";
+"Кому отправить сообщение?" = "Who to send to?";
+"Что написать?" = "What to write?";
+"Сообщение отправлено %@" = "Message sent to %@";
+"Сначала войдите в TGWatch" = "Please log in to TGWatch first";
+"Не удалось отправить сообщение" = "Failed to send message";

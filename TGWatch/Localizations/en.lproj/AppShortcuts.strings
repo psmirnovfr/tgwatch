@@ -1,0 +1,10 @@
+/*
+  AppShortcuts.strings
+  TGWatch (English)
+*/
+
+"Напиши ${recipient} в ${applicationName}" = "Message ${recipient} on ${applicationName}";
+"Отправь сообщение ${recipient} в ${applicationName}" = "Send a message to ${recipient} on ${applicationName}";
+"Напиши в ${applicationName} для ${recipient}" = "Message on ${applicationName} to ${recipient}";
+"Отправь сообщение через ${applicationName}" = "Send a message via ${applicationName}";
+"Напиши сообщение в ${applicationName}" = "Write a message on ${applicationName}";
